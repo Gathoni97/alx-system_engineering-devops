@@ -1,1 +1,1 @@
-groups the current user is part of
+chenges the owner of the file hello to the user betty
