@@ -1,1 +1,1 @@
-give other users all the permissions
+script that sets the mode
