@@ -1,1 +1,1 @@
-Everybody
+give other users all the permissions
